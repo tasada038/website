@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/tasada038/tasada038.github.io.git
+	branch = master
