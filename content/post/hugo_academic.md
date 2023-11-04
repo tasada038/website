@@ -20,7 +20,32 @@ slides: ""
 
 ベースとして、[How to Create an Academic/Wowchemy GitHub Page With Hugo?](https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/)の手順で作成していきます。
 
-2023/11/04時点では、Ubuntu 22.04にて上記を確認したところ、hugoコマンドにてERRORが生じたため、以下ReferencesのGithubを参考に`theme.toml`、`netlify.toml`、`go.*`を修正し、必要不必要なフォルダを精査して作成します。
+
+
+
+- starter-hugo-academicをFork
+
+[starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic)をForkします。
+
+Forkしたリポジトリは`website`として名前を変更しており、これをローカルへクローンします。
+
+- user_name.github.ioのリポジトリを作成
+
+GitHub Pagesのリポジトリを作成し、`website`ディレクトリ下でsubmoduleとして追加します。
+
+```sh: terminal
+git submodule add -f -b master https://github.com/tasada038/tasada038.github.io.git public
+```
+
+- websiteの中身を修正
+
+2023/11/04、Ubuntu 22.04にて動作確認したところ、hugoコマンドにてERRORが生じたため、以下ReferencesのGithubを参考に`theme.toml`、`netlify.toml`、`go.*`を修正し、必要不必要なフォルダを精査して作成します。
+
+使用するライブラリ指定などがしっかりとできていれば`hugo`コマンドが通るので`website`ディレクトリ下で`hugo`コマンドを実行しましょう。
+
+すると、public下に必要なパッケージが自動生成されるはずです。そしたら`hugo server`コマンドでwebsiteの出来を確認します。
+
+
 
 # References
 
