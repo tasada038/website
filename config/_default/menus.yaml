@@ -13,6 +13,9 @@ main:
   - name: 投稿/Posts
     url: '#posts'
     weight: 30
+  - name: 出版/Publications
+    url: '#featured'
+    weight: 40
   - name: 実績/Achievements
     url: "#achievements"
     weight: 50
