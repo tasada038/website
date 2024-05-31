@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
 
   - certificate_url: ''
+    date_start: '2023-10-20'
+    description: ''
+    organization: 共同研究「未来モビリティ材料」共創フェア
+    organization_url: 'https://www.ait.ac.jp/news/detail/0007407.html'
+    title: ロボット実験とAIによりセラミックス化学焼結プロセスの条件探索を高速化
+    url: ''
+
+  - certificate_url: ''
     date_end: '2022-11-20'
     date_start: '2022-11-18'
     description: ''

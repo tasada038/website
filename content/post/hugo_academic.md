@@ -1,6 +1,6 @@
 ---
-title: "starter-hugo-academic + Github Pagesでwebsiteを作るチップス"
-date: 2023-11-04
+title: "How to use starter-hugo-academic and Github Pages?"
+date: 2024-05-31
 draft: false
 tags:
 - Hugo
@@ -11,7 +11,8 @@ summary: ""
 slides: ""
 ---
 
-- [How to create the original website?](#hugo)
+- [How to create the original website?](#how-to-create-the-original-website)
+- [Edit Website](#edit-website)
 - [References](#references)
 
 <br>
@@ -44,6 +45,27 @@ git submodule add -f -b master https://github.com/tasada038/tasada038.github.io.
 使用するライブラリ指定などがしっかりとできていれば`hugo`コマンドが通るので`website`ディレクトリ下で`hugo`コマンドを実行しましょう。
 
 すると、public下に必要なパッケージが自動生成されるはずです。そしたら`hugo server`コマンドでwebsiteの出来を確認します。
+
+
+# Edit Website
+
+以下のディレクトリへ移動し、サーバーを起動します。
+
+```sh: terminal
+cd ~/website
+hugo server
+```
+
+**website/content**内のMarkdownを編集・追加することで記事の編集が可能になります。
+
+- Achivementsの編集
+
+Achivementsの編集は /content/home下の.mdファイルにて追記する。
+
+- Publicationsの編集
+
+/content/publication下へフォルダを追加し、その中の.mdファイルにて追記する。
+
 
 
 
