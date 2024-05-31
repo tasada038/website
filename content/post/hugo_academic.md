@@ -13,6 +13,7 @@ slides: ""
 
 - [How to create the original website?](#how-to-create-the-original-website)
 - [Edit Website](#edit-website)
+- [upload github](#upload-github)
 - [References](#references)
 
 <br>
@@ -67,7 +68,15 @@ Achivementsの編集は /content/home下の.mdファイルにて追記する。
 /content/publication下へフォルダを追加し、その中の.mdファイルにて追記する。
 
 
+編集完了後は以下を実行し、./publicへビルド生成物を出力します。
 
+```sh: terminal
+hugo
+```
+
+# upload github
+
+GitHubへpushします。
 
 # References
 
