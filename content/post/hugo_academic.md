@@ -67,6 +67,9 @@ Achivementsの編集は /content/home下の.mdファイルにて追記する。
 
 /content/publication下へフォルダを追加し、その中の.mdファイルにて追記する。
 
+- ヘッダーの編集
+
+/config/_default/menus.yaml を編集する。
 
 編集完了後は以下を実行し、./publicへビルド生成物を出力します。
 

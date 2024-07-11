@@ -6,7 +6,7 @@ title: Takumi Asada
 superuser: true
 
 # Role/position/tagline
-role: Engineer
+role: Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # Interests to show in About widget
 interests:
 - 水中ロボット/Underwater Robot
 - 生物模倣型ロボット/Bio-inspired Robot
 - ファクトリーオートメーション/Factory Automation
+- ラボラトリーオートメーション/Laboratory automation
 
 # Education to show in About widget
 education:

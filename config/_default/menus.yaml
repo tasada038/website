@@ -7,15 +7,18 @@ main:
   - name: ホーム/Home
     url: '#about'
     weight: 10
-  - name: プロジェクト/Projects
-    url: '#projects'
-    weight: 20
-  - name: 投稿/Posts
-    url: '#posts'
-    weight: 30
   - name: 出版/Publications
     url: '#featured'
-    weight: 40
+    weight: 20
   - name: 実績/Achievements
     url: "#achievements"
+    weight: 30
+  - name: 経歴/Experience
+    url: "#experience"
     weight: 50
+  - name: プロジェクト/Projects
+    url: '#projects'
+    weight: 40
+  - name: 投稿/Posts
+    url: '#posts'
+    weight: 60
