@@ -81,6 +81,16 @@ hugo
 
 GitHubへpushします。
 
+publicがsubmoduleなので、先にサブモジュールをコミットしてからwebsiteをpushします。
+```sh
+cd public/
+git add .
+git commit -m "update submodule"
+cd ..
+git add public/
+```
+
+
 # References
 
 [hugo-academicでポートフォリオを作成する](https://qiita.com/junffy/items/3188671d02a771920fd7)
