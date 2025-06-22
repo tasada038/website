@@ -25,9 +25,17 @@ date_format: Jan 2006
 item:
 
   - certificate_url: ''
-    date_end: 
+    date_start: '2025-04-01'
+    description: 'Engaged in research and development of biomimetic robots.'
+    organization: Utsunomiya University
+    organization_url:
+    title: Ph.D.Eng Student
+    url: ''
+
+  - certificate_url: ''
+    date_end: '2025-03-31'
     date_start: '2023-04-01'
-    description: 'Engaged in mass production development of reprogramming.'
+    description: 'Engaged in mass production development of software update and reprogramming.'
     organization: DENSO CORPORATION
     organization_url:
     title: Software Engineer

@@ -28,7 +28,7 @@ item:
     date_start: '2023-10-20'
     description: ''
     organization: 共同研究「未来モビリティ材料」共創フェア
-    organization_url: 'https://www.ait.ac.jp/news/detail/0007407.html'
+    organization_url: 'http://www-test.ait.ac.jp/news/detail/0007407.html'
     title: ロボット実験とAIによりセラミックス化学焼結プロセスの条件探索を高速化
     url: ''
 
@@ -91,7 +91,7 @@ item:
     date_start: '2020-11-06'
     description: ''
     organization: 第6回沖縄海洋ロボットコンペティション
-    organization_url: 'https://www.robo-underwater.jp/2020/rchp/JPN/index.phpf'
+    organization_url: 'https://www.robo-underwater.jp/2020/rchp/JPN/index.php'
     title: フリースタイル部門 優秀賞
     url: ''
 

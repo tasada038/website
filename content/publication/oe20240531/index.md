@@ -27,7 +27,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Ocean Engineering Volume 308, 15 September 2024, 118261'
-publication_short: 
+publication_short:
 
 # Summary. An optional shortened abstract.
 abstruct: ''
@@ -53,8 +53,8 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image: 
-  caption: 
+image:
+  caption:
   focal_point: ''
   preview_only: false
 

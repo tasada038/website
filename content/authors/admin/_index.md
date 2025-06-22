@@ -6,11 +6,11 @@ title: Takumi Asada
 superuser: true
 
 # Role/position/tagline
-role: Software Engineer
+role: Robotics and Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,10 +18,11 @@ bio:
 
 # Interests to show in About widget
 interests:
-- 水中ロボット/Underwater Robot
-- 生物模倣型ロボット/Bio-inspired Robot
-- ファクトリーオートメーション/Factory Automation
-- ラボラトリーオートメーション/Laboratory automation
+- Underwater Robot
+- Biomimetics Robot
+- Factory Automation
+- Laboratory automation
+- Software Update
 
 # Education to show in About widget
 education:
@@ -58,10 +59,11 @@ email: ""
 highlight_name: true
 ---
 
-ソフトウェアエンジニアです。
-学生時代は水中ロボットの研究開発、競技とロボットSEを行っていました。
+I am a robotics and software engineer.
+When I was a student, I was involved in research and development of underwater robots, competitions, and robot SE. I'm interested in BUR, FA, LA, and SWU.
 
 <br>
 
-I am a software engineer.
-When I was a student, I was involved in research and development of underwater robots, competitions, and robot SE.
+ロボティクス/ソフトウェアのエンジニアです。
+水中ロボットの研究開発、競技とロボットSEを行っていました。
+バイオミメティクスロボット、自動化、SW更新の研究開発・技術に興味があります。

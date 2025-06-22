@@ -1,24 +1,25 @@
 ---
-title: 'Development of an Exoskeleton type Manta Ray Robot'
+title: 'Development of a Multi-Finned Omni-Directional Mobile Underwater Robot'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+  - Masayuki Kuno
   - Tatsunari Tsujimoto
+  - admin
+  - Takao Oki
   - Hideo Furuhashi
 
 # Author notes (optional)
 author_notes:
-  - 
+  -
 
-
-date: '2023'
-doi: 'https://doi.org/10.18910/92294'
+date: '2024'
+doi: 'https://doi.org/10.1109/CoDIT62066.2024.10708510'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-06-06'
+publishDate: '2024-10-18'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,8 +28,8 @@ publishDate: '2023-06-06'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Proc. 11th Intl Symposium on Adaptive Motion of Animals and Machines (AMAM2023)'
-publication_short: 
+publication: '2024 10th International Conference on Control, Decision and Information Technologies (CoDIT)'
+publication_short:
 
 # Summary. An optional shortened abstract.
 abstruct: ''
@@ -43,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ir.library.osaka-u.ac.jp/repo/ouka/all/92294/P39-AMAM2023-asada.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -54,8 +55,8 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image: 
-  caption: 
+image:
+  caption:
   focal_point: ''
   preview_only: false
 
@@ -72,5 +73,5 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: 
+slides:
 ---
