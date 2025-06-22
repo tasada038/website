@@ -81,15 +81,18 @@ hugo
 
 GitHubへpushします。
 
-publicがsubmoduleなので、先にサブモジュールをコミットしてからwebsiteをpushします。
+publicがsubmoduleなので、先にサブモジュールをコミット/プッシュしてからwebsiteをpushします。
 ```sh
 cd public/
-git add .
+git add *
 git commit -m "update submodule"
-cd ..
-git add public/
-```
+git push origin master
 
+cd ..
+git add *
+git commit -m "update website"
+git push origin master
+```
 
 # References
 
